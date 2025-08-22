@@ -1,0 +1,1 @@
+La presente aplicación, permitirá que se agreguen nombres a través de un campo de texto y un botón llamado añadir, posterior a la agregación de los nombres, dará clic en el botón sortear amigo, el cual reflejara el amigo secreto.
